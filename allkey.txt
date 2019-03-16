@@ -1,1 +1,11 @@
-address wallet
+https://xdogefaucet.000webhostapp.com/faucet.php?&address=DP9LxXjeSQNhMUitGjt2qAMbGxufhrt4SX&currency=DOGE
+http://auto.japakar.com/faucet.php?address=BTBA9rrf17jcJe9t7kugZ9SGmKFCSiRayy&currency=BLK&miner=on&key=b721c9bbed24981f9f99938fd767a866
+http://auto2.japakar.com/faucet.php?address=BTBA9rrf17jcJe9t7kugZ9SGmKFCSiRayy&currency=BLK&miner=on&key=8fdf1d9e5dc708fd7f3beef7c7384785
+http://venygana.000webhostapp.com//faucets.php?r=BHidMUBr6B3iCZxZ7fR37ZG2B5xAPxm4br&rc=BLK&address=BTBA9rrf17jcJe9t7kugZ9SGmKFCSiRayy&currency=BLK&key=68ffae9b6049161a121247ee6285797b
+http://freebitcoinfaucets.top/autoclaim-blk-687a0385e4.html
+https://qwerofaucet.com/faucet.php?address=DP9LxXjeSQNhMUitGjt2qAMbGxufhrt4SX&key=pwpdIYuUPC2m0eqqx2AwTIgX1TrzUavk
+http://auto.japakar.com/faucet.php?address=DP9LxXjeSQNhMUitGjt2qAMbGxufhrt4SX&currency=DOGE&key=29cb488d956e82ee6ae7bbe028b19f47
+http://auto2.japakar.com/faucet.php?address=DP9LxXjeSQNhMUitGjt2qAMbGxufhrt4SX&currency=DOGE&key=90d5a6e8e29e1fcd67e0f062e4f92a20
+http://auto.japakar.com/faucet.php?address=PJLBCsDKmT9oFbgpHs1qqWfTg3gz5yPLJc&currency=POT&key=f4fd69b11a8b1ab867e164843a0d3c6f
+http://auto2.japakar.com/faucet.php?address=PJLBCsDKmT9oFbgpHs1qqWfTg3gz5yPLJc&currency=POT&key=64a024fbe15cc6ba061e12e78e16921f
+http://www.autostickydoge.tk/
